@@ -29,5 +29,10 @@ For an optimal experience, we recommend the following hardware configuration:
 
 ### Software requirements
 You must also install in advance the following software:
-* **Operating system**: Microsoft Windows 10/8/7 (64 bit) or macOS 10.5 or higher (64-bit) or Linux 64-bit with KDE, GNOME, or Unity DE desktop, JDK 8, IntelliJ, Scala plugin
+
+**Operating system** 
+* Microsoft Windows 10/8/7 (64 bit) or macOS 10.5 or higher (64-bit) or Linux 64-bit with KDE, GNOME, or Unity DE desktop
+* JDK 8
+* IntelliJ
+* Scala plugin
 
